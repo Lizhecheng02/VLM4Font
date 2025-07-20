@@ -1,7 +1,5 @@
 ## Texture or Semantics? Vision-Language Models Get Lost in Font Recognition
 
-------------------------------------------------------------------------------------------------------------------
-
 This is the repository for our paper [Texture or Semantics? Vision-Language Models Get Lost in Font Recognition](https://arxiv.org/abs/2503.23768)
 
 When you are reading a research paper or doing some design work, do you ever want to know what font is used in the figure or design? We do, and we find it annoying that current vision-language models (VLMs) even struggle to provide a similar font type as the final answer.
