@@ -1,0 +1,7 @@
+openai:
+  api_key: 
+  organization: 
+huggingface:
+  api_key: 
+openrouter:
+  api_key: 
